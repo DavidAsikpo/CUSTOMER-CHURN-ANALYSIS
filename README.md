@@ -21,7 +21,8 @@ Before modeling, an interactive dashboard was created to visualize the original 
 - Transaction patterns and spending behavior differences between churners and non-churners  
 
 📌 **Example Dashboard Screenshot:**  
-*(Insert your dashboard image here)*  
+![Feature Importance Graph](docs/feature_importance.png)
+
 
 This dashboard highlighted churn drivers, which informed the features selected for machine learning.  
 
