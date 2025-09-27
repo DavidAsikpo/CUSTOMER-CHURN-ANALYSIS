@@ -53,7 +53,7 @@ Key steps included:
 - Interpreting results to understand business impact  
 
 📌 ROC Curve Example:  
-*(Insert ROC curve screenshot if available)*  
+![Feature Importance Graph](Docs/Roc_curve.png)
 
 ---
 
