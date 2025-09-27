@@ -1,4 +1,3 @@
-# CUSTOMER-CHURN-ANALYSIS
 # Customer Churn Prediction Project  
 
 ## 📌 Project Overview  
@@ -81,7 +80,5 @@ These insights help stakeholders understand not just *who* is at risk, but *why*
 - Provides actionable insights (key drivers of churn)  
 - Supports data-driven retention strategies  
 
----
-
-## 📂 Repository Structure  
+---  
 
