@@ -21,7 +21,7 @@ Before modeling, an interactive dashboard was created to visualize the original 
 - Transaction patterns and spending behavior differences between churners and non-churners  
 
 📌 **Example Dashboard Screenshot:**  
-![Feature Importance Graph](Docs/feature_importance.png)
+![Feature Importance Graph](Docs/Dashbaord.png)
 
 
 This dashboard highlighted churn drivers, which informed the features selected for machine learning.  
@@ -61,7 +61,7 @@ Key steps included:
 To improve interpretability, we visualized the most important features driving churn predictions.  
 
 📌 **Feature Importance Graph:**  
-*(Insert your feature importance screenshot here)*  
+![Feature Importance Graph](Docs/feature_importance.png)
 
 These insights help stakeholders understand not just *who* is at risk, but *why*.  
 
